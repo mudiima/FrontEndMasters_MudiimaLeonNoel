@@ -1,0 +1,314 @@
+html,body{
+    height: 100%;
+    
+}
+
+.parent{
+
+    
+     
+     display: flex;
+     flex-direction: column;
+
+
+}
+.child1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: #4E2422;
+    height: 120px;
+    align-items: center;
+}
+
+.learn,.Topic{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    border-bottom: 3px solid gray;
+    margin-bottom: 25px;
+    
+}
+
+.F{
+    font-family: Arial Nova cond Light;
+    color: white;
+    font-size: 55px;
+}
+.M{
+    font-family: Brush Script Mt;
+    color: rgb(203,5,5);
+    font-size: 55px;
+}
+
+
+
+
+.list p{
+    flex-basis: 60%;
+}
+.lst1{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    flex-basis: 40%;
+    justify-content: space-around;
+    
+    
+    align-items: center;
+
+}
+
+.lst1 li{
+    font-size: 28px;
+    
+}
+
+.list-icons{
+
+
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+}
+.icon{
+    color: gray;
+    margin-left: 120px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+.list-icons img{
+    
+    height: 30px;
+    width: 30px;
+}
+
+.list2{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    list-style: none;
+    flex-basis: 50%;
+    
+}
+.lrn{
+    color: white;
+
+}
+
+.list3{
+    list-style: none;
+    margin-left: 120px;
+}
+.list2 a{
+    text-decoration: none;
+    color: gray;
+}
+
+.lst1 a:hover{
+    color: whitesmoke;
+}
+
+
+.lst1 a{
+    color: wheat;
+    text-decoration: none;
+}
+
+
+
+.child2{
+    background-color: orangered;
+    height: 15px;
+    
+}
+.middle{
+    background-color: #222222;
+    display: flex;
+    flex-direction: column;
+    
+    align-items: center;
+}
+
+.last-div{
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    height: 304px;
+}
+.last1{
+    margin-left: 120px;
+    display:flex;
+    flex-direction: row;
+}
+.list2 p{
+    flex-basis: 50%;
+    
+}
+
+.store{
+    display: flex;
+    flex-direction: row;
+
+}
+
+.store img {
+    width: 110px;
+    height: 35px;
+    margin-left: 120px;
+    
+}
+
+.img2{
+    margin-left: -75px;
+}
+
+
+
+.Center{
+    
+    display: flex;
+    flex-direction: column;
+    width: 1370px;
+
+}
+
+.rec{
+    width: 400px;
+    height: 790px;
+    background-color:#383838;
+    margin-bottom: 25px;
+    margin-right: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.parent-box{
+
+    height: 100%;
+}
+
+.parent-box1, .parent-box2{
+
+ display: flex;
+ flex-direction: row;
+ justify-content: space-between;
+ 
+ align-items: center;
+ justify-content: center;
+ 
+
+}
+
+
+
+.e{
+    margin-left: 150px;
+    font-size: 45px;
+    margin-bottom: 25px;
+}
+.list3 img{
+    margin-left: 120px;
+    height: 175px;
+    width: 175px;
+}
+
+
+
+.s3{
+    color: orangered;
+}
+
+.di-terms{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: gray;
+}
+
+.circle{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    border:26px solid white;
+    display: flex;
+    color: white;
+    align-items: center;
+    justify-content: center;
+}
+.l2{
+    list-style: none;
+    color: gray;
+    justify-content: space-around;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+.box-list li{
+    font-size: 25px;
+    color: white;
+}
+
+
+.b11{
+    background-color: orangered;
+    color: whitesmoke;
+    border: none;
+    border-radius: 20px;
+    height: 40px;
+    width: 107px;
+
+    font-size: 20px;
+    font-weight: 10;
+
+
+}
+
+.bbtn{
+    background-color: orangered;
+    height: 49px;
+    width: 257px;
+    color: white;
+    border-radius: 20px;
+    border: none;
+    font-size: 21px;
+
+}
+.bgrn{
+    background-color: #087051;
+}
+
+.bblue{
+    background-color: #0b397e;
+}
+.bred{
+    background-color: #eb0808;
+}
+#big{
+    font-size: 40px;
+    margin-bottom: 35px;
+ }
+ 
+ #large{
+     font-size: 27px;
+ }
+
+#O{
+    font-size: 120px;
+}
+
+
+
+.bpink{
+    background-color: #7c215c;
+}
+.byellow{
+    background-color: #496811;
+}
+
